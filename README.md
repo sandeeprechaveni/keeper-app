@@ -20,12 +20,12 @@ A Google Keep-inspired note-taking app built on the **Internet Computer (DFINITY
 1. **Clone the repo**  
    ```bash
    git clone https://github.com/sandeeprechaveni/keeper-app.git
-Install dependencies
-bash:
+2.Install dependencies
+```bash
 npm install
   
-
-Deploy Locally
+```
+3.Deploy Locally
  ```bash:
     dfx start --background
     dfx deploy
